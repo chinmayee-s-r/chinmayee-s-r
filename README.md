@@ -57,7 +57,6 @@ graph LR
     end
 
     classDef core fill:#3776AB,color:#fff,stroke-width:2px,stroke:yellow
-
 🚀 Project Showcase
 📌 TestLLM Studio – AI Model Fine-Tuning Platform (Internship @ Tech Mahindra)
 <img align="left" src="https://img.icons8.com/ios/452/artificial-intelligence.png" width="80" hspace="10"/>
