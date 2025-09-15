@@ -15,61 +15,48 @@
 ---
 
 ## 💻 My Tech Skill Tree
-<details>
+
 ```mermaid
-graph TD
+graph LR
     subgraph Foundations
-        P[Python];
-        J[Java];
+        direction LR
+        P[Python]:::core;
+        J[Java]:::core;
         C[C / C++];
     end
 
-   subgraph "Full-Stack & Mobile"
-        P --> FAPI[FastAPI];
-        P --> RE[React / Angular];
-        J --> AS[Android Studio];
-        FAPI --> DB[(Databases)];
-        RE --> DB;
-        AS --> DB;
+    subgraph "Development Paths"
+        direction LR
+        P --> Web[Web & Full-Stack];
+        P --> DS[Data Science];
+        J --> Mobile[Mobile & Desktop];
     end
-    
-  subgraph Databases
+
+    subgraph "Specializations"
+        direction LR
+        Web --> FAPI[FastAPI, React, Angular];
+        Mobile --> DB[(Databases)];
+        FAPI --> DB;
         DB --> SQL[MySQL, Oracle, SQLite];
         DB --> NoSQL[MongoDB, Firebase];
+        
+        DS --> ML[ML & Deep Learning];
+        ML --> VIZ[NumPy, Pandas, Viz Libs];
+        ML --> SKL[Scikit-learn];
+        SKL --> PT[PyTorch];
+        SKL --> TF[TensorFlow, Keras];
+        PT --> NLP[Hugging Face, NLTK, SpaCy];
+        PT --> RL[RL Libs];
+        TF --> CV[OpenCV];
     end
 
-  subgraph "Data Science & AI/ML"
-        P --> DS[NumPy & Pandas];
-        DS --> VIZ[Visualization];
-        VIZ --> VIZ1[Matplotlib, Seaborn, Plotly];
-        DS --> ML[Scikit-learn];
-        ML --> DL[Deep Learning];
-        DL --> TF[TensorFlow / Keras];
-        DL --> PT[PyTorch];
-        TF --> CV[OpenCV / Caffe];
-        PT --> NLP[NLP];
-        NLP --> HF[Hugging Face, SpaCy, NLTK];
-        PT --> RL[Reinforcement Learning];
-        RL --> RLLIB[OpenAI Gym, Stable Baselines];
+    subgraph "Tools & DevOps"
+        direction LR
+        T[Tools] --> GIT[Git, VS Code, Jupyter];
+        T --> DEP[Docker, Kubernetes];
     end
 
-  subgraph "DevOps & Tools"
-        subgraph "Core Tools"
-            GIT[Git];
-            IDE[VS Code, Jupyter];
-            DSGN[Figma, Canva];
-        end
-        subgraph "Operating Systems"
-            OS[Linux / Windows];
-        end
-        subgraph "Deployment"
-            DEP[Docker & Kubernetes];
-        end
-    end
-
-  style P fill:#3776AB,color:#fff,stroke-width:2px,stroke:yellow
-  style J fill:#ED8B00,color:#fff,stroke-width:2px,stroke:yellow
-</details>
+    classDef core fill:#3776AB,color:#fff,stroke-width:2px,stroke:yellow
 
 🚀 Project Showcase
 📌 TestLLM Studio – AI Model Fine-Tuning Platform (Internship @ Tech Mahindra)
