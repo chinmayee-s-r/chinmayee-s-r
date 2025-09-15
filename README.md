@@ -1,12 +1,7 @@
-<p align="center">
-  <!-- Replace the link below with your Canva banner export -->
-  <img src="banner-image-url.png" alt="Chinmayee Randive | AI/ML Explorer | Full-Stack Builder | Java Developer" width="100%"/>
-</p>
-
-<h1 align="center">Hi, I'm Chinmayee Randive 👋</h1>
+<h1 align="center">Hi, I'm Chinmayee 👋</h1>
 <h3 align="center">AI/ML Explorer | Full-Stack Builder | Java Developer</h3>
 <p align="center">
-  AI Intern @ Maker’s Lab, Tech Mahindra | Future SDE @ Barclays Bank PLC | Pune, India
+  AI Intern @ Maker’s Lab, TechM | Future SDE @ Barclays Bank PLC | Pune, India
 </p>
 
 ---
@@ -21,8 +16,8 @@
 
 | **Category**            | **Technologies**                                                                                  |
 |--------------------------|--------------------------------------------------------------------------------------------------|
-| Programming Languages    | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) |
-| Web Development          | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
+| Programming Languages    | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+| Web Development          | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
 | Databases                | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
 | AI/ML Frameworks         | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) |
 | Deep Learning            | ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white) ![Caffe](https://img.shields.io/badge/Caffe-AA0000?logo=apache&logoColor=white) |
