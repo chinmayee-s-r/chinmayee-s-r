@@ -16,9 +16,6 @@
 
 ## 💻 My Tech Skill Tree
 <details>
-<summary>🌲 Click to Explore My Tech Stack</summary>
-<p align="center">
-
 ```mermaid
 graph TD
     subgraph Foundations
@@ -27,7 +24,7 @@ graph TD
         C[C / C++];
     end
 
-    subgraph "Full-Stack & Mobile"
+   subgraph "Full-Stack & Mobile"
         P --> FAPI[FastAPI];
         P --> RE[React / Angular];
         J --> AS[Android Studio];
@@ -36,12 +33,12 @@ graph TD
         AS --> DB;
     end
     
-    subgraph Databases
+  subgraph Databases
         DB --> SQL[MySQL, Oracle, SQLite];
         DB --> NoSQL[MongoDB, Firebase];
     end
 
-    subgraph "Data Science & AI/ML"
+  subgraph "Data Science & AI/ML"
         P --> DS[NumPy & Pandas];
         DS --> VIZ[Visualization];
         VIZ --> VIZ1[Matplotlib, Seaborn, Plotly];
@@ -56,7 +53,7 @@ graph TD
         RL --> RLLIB[OpenAI Gym, Stable Baselines];
     end
 
-    subgraph "DevOps & Tools"
+  subgraph "DevOps & Tools"
         subgraph "Core Tools"
             GIT[Git];
             IDE[VS Code, Jupyter];
@@ -70,9 +67,8 @@ graph TD
         end
     end
 
-    style P fill:#3776AB,color:#fff,stroke-width:2px,stroke:yellow
-    style J fill:#ED8B00,color:#fff,stroke-width:2px,stroke:yellow
-</p>
+  style P fill:#3776AB,color:#fff,stroke-width:2px,stroke:yellow
+  style J fill:#ED8B00,color:#fff,stroke-width:2px,stroke:yellow
 </details>
 
 🚀 Project Showcase
