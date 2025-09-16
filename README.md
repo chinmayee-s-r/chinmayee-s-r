@@ -14,70 +14,84 @@
 
 ---
 
-## 💻 My Tech Skill Tree
+## 💻 My Technical Skills
 
-```mermaid
-graph LR
-    subgraph "Foundations"
-        P[Python]:::foundation
-        J[Java]:::foundation
-        C[C / C++]:::foundation
-    end
-    
-    subgraph "Development Paths"
-        Web[Web & Full-Stack]:::devpath
-        DS[Data Science]:::devpath
-        Mobile[Mobile & Desktop]:::devpath
-    end
-    
-    subgraph "Specializations"
-        FAPI[FastAPI, React, Angular]:::frontend
-        DB[(Databases)]:::database
-        SQL[MySQL, Oracle, SQLite]:::database
-        NoSQL[MongoDB, Firebase]:::database
-        ML[ML & Deep Learning]:::ml
-        VIZ[NumPy, Pandas, Viz Libs]:::data
-        SKL[Scikit-learn]:::ml
-        PT[PyTorch]:::deeplearning
-        TF[TensorFlow, Keras]:::deeplearning
-        NLP[Hugging Face, NLTK, SpaCy]:::nlp
-        RL[RL Libs]:::deeplearning
-        CV[OpenCV]:::computerVision
-    end
-    
-    subgraph "Tools & DevOps"
-        GIT[Git, VS Code, Jupyter]:::tools
-        DEP[Docker, Kubernetes]:::devops
-    end
-    
-    P --> Web
-    P --> DS
-    J --> Mobile
-    Web --> FAPI
-    Mobile --> DB
-    FAPI --> DB
-    DB --> SQL
-    DB --> NoSQL
-    DS --> ML
-    ML --> VIZ
-    ML --> SKL
-    SKL --> PT
-    SKL --> TF
-    PT --> NLP
-    PT --> RL
-    TF --> CV
-    
-    classDef foundation fill:#FF6B6B,color:#fff,stroke:#FF4757,stroke-width:3px
-    classDef devpath fill:#4ECDC4,color:#fff,stroke:#26C6DA,stroke-width:3px
-    classDef frontend fill:#45B7D1,color:#fff,stroke:#2E86AB,stroke-width:3px
-    classDef database fill:#96CEB4,color:#fff,stroke:#6BCF7F,stroke-width:3px
-    classDef ml fill:#FFEAA7,color:#2D3436,stroke:#FDCB6E,stroke-width:3px
-    classDef data fill:#DDA0DD,color:#fff,stroke:#BA55D3,stroke-width:3px
-    classDef deeplearning fill:#FF7675,color:#fff,stroke:#E17055,stroke-width:3px
-    classDef nlp fill:#A29BFE,color:#fff,stroke:#6C5CE7,stroke-width:3px
-    classDef computerVision fill:#FD79A8,color:#fff,stroke:#E84393,stroke-width:3px
-    classDef tools fill:#FDCB6E,color:#2D3436,stroke:#E17055,stroke-width:3px
-    classDef devops fill:#00B894,color:#fff,stroke:#00A085,stroke-width:3px
+```markdown
+## 💻 My Tech Stack
+
+<div align="center">
+
+### 🏗️ **Foundations**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+### 🌐 **Web Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### 🤖 **AI/ML & Data Science**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🧠 **NLP & Computer Vision**
+![NLTK](https://img.shields.io/badge/NLTK-FF6B6B?style=for-the-badge&logo=nltk&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 📱 **Mobile Development**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🛠️ **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### ☁️ **Cloud & Services**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+## 📊 **Proficiency Levels**
+
+<div align="center">
+
+### 🎯 **Expert Level (90%+)**
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+### 🚀 **Advanced Level (80-89%)**
+![React](https://img.shields.io/badge/React-Advanced-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+### 💪 **Intermediate Level (70-79%)**
+![Angular](https://img.shields.io/badge/Angular-Intermediate-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 ```
 
 ## 🚀 Project Showcase
