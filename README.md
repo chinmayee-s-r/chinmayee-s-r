@@ -19,35 +19,35 @@
 ```mermaid
 graph LR
     subgraph "Foundations"
-        P[Python]:::core
-        J[Java]:::core
-        C[C / C++]
+        P[Python]:::foundation
+        J[Java]:::foundation
+        C[C / C++]:::foundation
     end
     
     subgraph "Development Paths"
-        Web[Web & Full-Stack]
-        DS[Data Science]
-        Mobile[Mobile & Desktop]
+        Web[Web & Full-Stack]:::devpath
+        DS[Data Science]:::devpath
+        Mobile[Mobile & Desktop]:::devpath
     end
     
     subgraph "Specializations"
-        FAPI[FastAPI, React, Angular]
-        DB[(Databases)]
-        SQL[MySQL, Oracle, SQLite]
-        NoSQL[MongoDB, Firebase]
-        ML[ML & Deep Learning]
-        VIZ[NumPy, Pandas, Viz Libs]
-        SKL[Scikit-learn]
-        PT[PyTorch]
-        TF[TensorFlow, Keras]
-        NLP[Hugging Face, NLTK, SpaCy]
-        RL[RL Libs]
-        CV[OpenCV]
+        FAPI[FastAPI, React, Angular]:::frontend
+        DB[(Databases)]:::database
+        SQL[MySQL, Oracle, SQLite]:::database
+        NoSQL[MongoDB, Firebase]:::database
+        ML[ML & Deep Learning]:::ml
+        VIZ[NumPy, Pandas, Viz Libs]:::data
+        SKL[Scikit-learn]:::ml
+        PT[PyTorch]:::deeplearning
+        TF[TensorFlow, Keras]:::deeplearning
+        NLP[Hugging Face, NLTK, SpaCy]:::nlp
+        RL[RL Libs]:::deeplearning
+        CV[OpenCV]:::computerVision
     end
     
     subgraph "Tools & DevOps"
-        GIT[Git, VS Code, Jupyter]
-        DEP[Docker, Kubernetes]
+        GIT[Git, VS Code, Jupyter]:::tools
+        DEP[Docker, Kubernetes]:::devops
     end
     
     P --> Web
@@ -67,7 +67,17 @@ graph LR
     PT --> RL
     TF --> CV
     
-    classDef core fill:#3776AB,color:#fff,stroke-width:2px,stroke:yellow
+    classDef foundation fill:#FF6B6B,color:#fff,stroke:#FF4757,stroke-width:3px
+    classDef devpath fill:#4ECDC4,color:#fff,stroke:#26C6DA,stroke-width:3px
+    classDef frontend fill:#45B7D1,color:#fff,stroke:#2E86AB,stroke-width:3px
+    classDef database fill:#96CEB4,color:#fff,stroke:#6BCF7F,stroke-width:3px
+    classDef ml fill:#FFEAA7,color:#2D3436,stroke:#FDCB6E,stroke-width:3px
+    classDef data fill:#DDA0DD,color:#fff,stroke:#BA55D3,stroke-width:3px
+    classDef deeplearning fill:#FF7675,color:#fff,stroke:#E17055,stroke-width:3px
+    classDef nlp fill:#A29BFE,color:#fff,stroke:#6C5CE7,stroke-width:3px
+    classDef computerVision fill:#FD79A8,color:#fff,stroke:#E84393,stroke-width:3px
+    classDef tools fill:#FDCB6E,color:#2D3436,stroke:#E17055,stroke-width:3px
+    classDef devops fill:#00B894,color:#fff,stroke:#00A085,stroke-width:3px
 ```
 
 ## 🚀 Project Showcase
