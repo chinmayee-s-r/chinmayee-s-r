@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hi, I'm Chinmayee 👋</h1>
 <h3 align="center">AI/ML Engineer | Full-Stack Developer</h3>
 <p align="center">
@@ -14,9 +15,6 @@
 
 ---
 
-## 💻 My Technical Skills
-
-```markdown
 ## 💻 My Tech Stack
 
 <div align="center">
@@ -92,7 +90,6 @@
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-```
 
 ## 🚀 Project Showcase
 
@@ -294,3 +291,4 @@ Tech: MySQL, JDBC.
 <a href="https://www.hackerrank.com/chinmayeer" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
 <a href="mailto:chinmayee.randive.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+```
