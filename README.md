@@ -7,94 +7,172 @@
 ---
 
 ### ✨ Key Highlights
-- 🏆 **Hackathon Winner:** Won the **Barclays Internal Hackathon 2025** by designing a GenAI assistant for MSME loan scoring and document validation.
+- �� **Hackathon Winner:** Won the **Barclays Internal Hackathon 2025** by designing a GenAI assistant for MSME loan scoring and document validation.
 - 🚀 **Shipped a Full-Stack AI Platform:** Built TestLLM Studio, an end-to-end model fine-tuning platform, during my internship at Tech Mahindra.
-- 🥈 **Top Performer:** Placed **2nd out of 200+ teams** at the BNY Mellon Hackathon 2024 with a Java-based social music player.
-- 📈 **Delivered Business Impact:** Reduced manual errors by **60%** and doubled online revenue by creating a POS system for Kshityee Jewels.
+- �� **Top Performer:** Placed **2nd out of 200+ teams** at the BNY Mellon Hackathon 2024 with a Java-based social music player.
+- �� **Delivered Business Impact:** Reduced manual errors by **60%** and doubled online revenue by creating a POS system for Kshityee Jewels.
 
 ---
 
-## 💻 My Tech Stack
+## 💻 My Tech Journey & Stack
+
+### 🗓️ **Tech Evolution Timeline**
+
+```mermaid
+timeline
+    title My Tech Learning Journey
+    2022 : Started Programming Journey
+         : Python & Java Foundations
+         : First Web Development Projects
+    2023 : Database & Backend Development
+         : MySQL, Oracle, SQLite
+         : POS System @ Kshityee Jewels
+         : Java + MySQL Mastery
+    2024 : AI/ML & Advanced Web
+         : PyTorch, TensorFlow, Scikit-learn
+         : React, Angular, FastAPI
+         : Medical Imaging & CNNs
+         : BNY Mellon Hackathon (2nd Place)
+    2025 : Full-Stack AI Platforms
+         : TestLLM Studio @ Tech Mahindra
+         : MaturityX Dashboard @ Barclays
+         : GenAI Hackathon Winner
+         : Production-Grade Applications
+```
+
+### 🎯 **Current Tech Stack**
 
 <div align="center">
 
-### 🏗️ **Foundations**
+#### ��️ **Core Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 **Web Development**
+#### 🌐 **Web Technologies**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🗄️ **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### 🤖 **AI/ML & Data Science**
+#### �� **AI/ML Frameworks**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🧠 **NLP & Computer Vision**
-![NLTK](https://img.shields.io/badge/NLTK-FF6B6B?style=for-the-badge&logo=nltk&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+#### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### 📱 **Mobile Development**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🛠️ **Tools & DevOps**
+#### 🛠️ **Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### ☁️ **Cloud & Services**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
-## 📊 **Proficiency Levels**
+### 📊 **Skill Distribution**
+
+```mermaid
+pie title My Tech Stack Distribution
+    "Web Development" : 30
+    "AI/ML & Data Science" : 25
+    "Backend Development" : 20
+    "Mobile Development" : 15
+    "DevOps & Tools" : 10
+```
+
+### 🎯 **Proficiency Levels**
 
 <div align="center">
 
-### 🎯 **Expert Level (90%+)**
+#### 🏆 **Expert Level (90%+)**
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-### 🚀 **Advanced Level (80-89%)**
+#### 🚀 **Advanced Level (80-89%)**
 ![React](https://img.shields.io/badge/React-Advanced-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💪 **Intermediate Level (70-79%)**
+#### 💪 **Intermediate Level (70-79%)**
 ![Angular](https://img.shields.io/badge/Angular-Intermediate-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
+### 🌟 **Learning Focus Areas**
+
+<div align="center">
+
+#### 🎯 **Currently Learning**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-Learning-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+#### 🔮 **Next Goals**
+![Rust](https://img.shields.io/badge/Rust-Goal-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Goal-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+### �� **Tech Stack Evolution**
+
+```mermaid
+graph LR
+    subgraph "2022 - Foundations"
+        A[Python] --> B[Java]
+        A --> C[Web Basics]
+    end
+    
+    subgraph "2023 - Backend & DB"
+        B --> D[MySQL]
+        B --> E[Oracle]
+        D --> F[POS System]
+    end
+    
+    subgraph "2024 - AI/ML & Frontend"
+        A --> G[PyTorch]
+        A --> H[TensorFlow]
+        C --> I[React]
+        C --> J[Angular]
+        G --> K[Medical Imaging]
+    end
+    
+    subgraph "2025 - Full-Stack AI"
+        I --> L[FastAPI]
+        G --> M[TestLLM Studio]
+        L --> N[MaturityX Dashboard]
+        M --> O[GenAI Solutions]
+    end
+    
+    classDef foundation fill:#FF6B6B,color:#fff
+    classDef backend fill:#4ECDC4,color:#fff
+    classDef frontend fill:#45B7D1,color:#fff
+    classDef ai fill:#FFEAA7,color:#2D3436
+    classDef production fill:#96CEB4,color:#fff
+    
+    class A,B,C foundation
+    class D,E,F backend
+    class I,J,L frontend
+    class G,H,K,M ai
+    class N,O production
+```
+
 ## 🚀 Project Showcase
 
-### 📌 TestLLM Studio – AI Model Fine-Tuning Platform (Internship @ Tech Mahindra)
+### �� TestLLM Studio – AI Model Fine-Tuning Platform (Internship @ Tech Mahindra)
 
 <div align="left">
   <img src="https://img.icons8.com/ios/452/artificial-intelligence.png" width="80" alt="AI Icon"/>
@@ -125,9 +203,9 @@
 <div style="clear: both;"></div>
 
 <details>
-<summary>📂 View More Projects (2025, 2024, 2023)</summary>
+<summary>�� View More Projects (2025, 2024, 2023)</summary>
 
-### 📌 2025
+### �� 2025
 
 <details>
 <summary>💳 MSME GenAI Assistant Ascend (Barclays Hackathon – Winner)</summary>
@@ -171,7 +249,7 @@ Analyzed 17K+ BBC articles for political bias.
 </details>
 
 <details>
-<summary>🩺 Medical Imaging & Diagnosis</summary>
+<summary>�� Medical Imaging & Diagnosis</summary>
 
 <img src="https://img.icons8.com/ios/452/mri.png" width="80" alt="Medical Icon"/>
 
@@ -186,7 +264,7 @@ Streamlit-based UI for real-time diagnosis.
 </details>
 
 <details>
-<summary>🚗 Vision Enhancement for Driverless Cars (CAP)</summary>
+<summary>�� Vision Enhancement for Driverless Cars (CAP)</summary>
 
 <img src="https://img.icons8.com/ios/452/tesla-model-x.png" width="80" alt="Car Icon"/>
 
@@ -222,7 +300,7 @@ Android + Firebase app with SOS alerts and secure medical record storage.
 
 </details>
 
-### 📌 2023
+### �� 2023
 
 <details>
 <summary>🛒 POS & Resource Management System (Internship @ Kshityee Jewels)</summary>
