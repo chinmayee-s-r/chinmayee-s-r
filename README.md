@@ -18,27 +18,38 @@
 
 ### 🗓️ **Tech Evolution Timeline**
 
-```mermaid
-timeline
-    title My Tech Learning Journey
-    2022 : Started Programming Journey
-         : Python & Java Foundations
-         : First Web Development Projects
-    2023 : Database & Backend Development
-         : MySQL, Oracle, SQLite
-         : POS System @ Kshityee Jewels
-         : Java + MySQL Mastery
-    2024 : AI/ML & Advanced Web
-         : PyTorch, TensorFlow, Scikit-learn
-         : React, Angular, FastAPI
-         : Medical Imaging & CNNs
-         : BNY Mellon Hackathon (2nd Place)
-    2025 : Full-Stack AI Platforms
-         : TestLLM Studio @ Tech Mahindra
-         : MaturityX Dashboard @ Barclays
-         : GenAI Hackathon Winner
-         : Production-Grade Applications
-```
+<div align="center">
+
+#### 🚀 **2022 - Programming Foundations**
+![2022](https://img.shields.io/badge/2022-Started%20Programming%20Journey-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Foundations-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Foundations-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Web Basics](https://img.shields.io/badge/Web%20Basics-First%20Projects-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+#### 🏗️ **2023 - Backend & Database Development**
+![2023](https://img.shields.io/badge/2023-Database%20%26%20Backend-4ECDC4?style=for-the-badge&logo=calendar&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Mastery-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![POS System](https://img.shields.io/badge/POS%20System-Kshityee%20Jewels-28a745?style=for-the-badge&logo=terminal&logoColor=white)
+
+#### 🤖 **2024 - AI/ML & Advanced Web**
+![2024](https://img.shields.io/badge/2024-AI%2FML%20%26%20Advanced%20Web-FFEAA7?style=for-the-badge&logo=calendar&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML%20Frameworks-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![React](https://img.shields.io/badge/React-Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-CNNs-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)
+![Hackathon](https://img.shields.io/badge/BNY%20Mellon-2nd%20Place-28a745?style=for-the-badge&logo=trophy&logoColor=white)
+
+#### 🏆 **2025 - Full-Stack AI Platforms**
+![2025](https://img.shields.io/badge/2025-Full--Stack%20AI%20Platforms-96CEB4?style=for-the-badge&logo=calendar&logoColor=white)
+![TestLLM Studio](https://img.shields.io/badge/TestLLM%20Studio-Tech%20Mahindra-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
+![MaturityX](https://img.shields.io/badge/MaturityX-Barclays-4ECDC4?style=for-the-badge&logo=chart-line&logoColor=white)
+![GenAI Winner](https://img.shields.io/badge/GenAI%20Hackathon-Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
+![Production Apps](https://img.shields.io/badge/Production-Grade%20Apps-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white)
+
+</div>
 
 ### 🎯 **Current Tech Stack**
 
@@ -48,7 +59,7 @@ timeline
 <tr>
 <td align="center" width="300">
 <div style="border: 2px solid #FF6B6B; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FF6B6B, #FF8E8E); min-height: 200px;">
-<h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">��️ Foundations</h4>
+<h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">️ Foundations</h4>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 <div style="text-align: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
@@ -371,19 +382,6 @@ Tech: MySQL, JDBC.
 </details>
 
 </details>
-
-## 📌 Career Timeline
-
-<p align="center">
-<img src="https://img.shields.io/badge/2025-Tech%20Mahindra%20(AI%20Intern)-blue?style=for-the-badge" alt="Tech Mahindra Internship"/>
-<img src="https://img.shields.io/badge/2025-Barclays%20Internship%20(MaturityX)-purple?style=for-the-badge" alt="Barclays Internship"/>
-<img src="https://img.shields.io/badge/2025-Barclays%20GenAI%20Hackathon%20Winner-gold?style=for-the-badge" alt="Barclays Hackathon Winner"/>
-<img src="https://img.shields.io/badge/2024-BNY%20Mellon%20Hackathon%20(2nd%20Place)-green?style=for-the-badge" alt="BNY Mellon Hackathon"/>
-<img src="https://img.shields.io/badge/2024-E--cell%20Yukta%20CEO%20(NEC%20Finals)-orange?style=for-the-badge" alt="E-Cell Yukta CEO"/>
-<img src="https://img.shields.io/badge/2024-Providence%20TechSphere-lightblue?style=for-the-badge" alt="Providence TechSphere"/>
-<img src="https://img.shields.io/badge/2023-Kshityee%20Internship%20(POS%20System)-red?style=for-the-badge" alt="Kshityee Internship"/>
-<img src="https://img.shields.io/badge/2022--26-BTech%20Computer%20Engineering-lightgrey?style=for-the-badge" alt="BTech Computer Engineering"/>
-</p>
 
 ## 🏆 Highlights & Leadership
 
