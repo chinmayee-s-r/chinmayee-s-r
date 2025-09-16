@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Chinmayee 👋</h1>
 <h3 align="center">AI/ML Engineer | Full-Stack Developer</h3>
+<h3 align="center">AI Intern @Maker's Lab TechM | Future SDE @Barclays Bank PLC | Pune, India </h3>
 <p align="center">
   I build intelligent, end-to-end applications, transforming complex data into scalable software. My experience ranges from developing production-grade dashboards at <b>Barclays</b> to creating AI-powered fine-tuning platforms at <b>Tech Mahindra's Maker's Lab</b>.
 </p>
@@ -14,7 +15,7 @@
 
 ---
 
-## 💻 My Tech Journey & Stack
+## 💻 My Journey & Tech Stack
 
 ### 🗓️ **Tech Evolution Timeline**
 
@@ -39,8 +40,6 @@ timeline
          : GenAI Hackathon Winner
          : Production-Grade Applications
 ```
-
-### 🎯 **Current Tech Stack**
 
 <div align="center">
 
