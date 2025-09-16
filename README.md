@@ -53,8 +53,8 @@ timeline
 
 <table>
 <tr>
-<td align="center" width="33%">
-<div style="border: 2px solid #FF6B6B; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FF6B6B, #FF8E8E); min-height: 300px;">
+<td align="center" width="50%">
+<div style="border: 2px solid #FF6B6B; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FF6B6B, #FF8E8E); min-height: 200px;">
 <div style="text-align: center; margin-bottom: 15px;">
 <h4 style="color: white; margin: 0 0 15px 0; font-size: 16px;">️ Foundations</h4>
 </div>
@@ -79,8 +79,8 @@ timeline
 </div>
 </td>
 
-<td align="center" width="33%">
-<div style="border: 2px solid #4ECDC4; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #4ECDC4, #26C6DA); min-height: 300px;">
+<td align="center" width="50%">
+<div style="border: 2px solid #4ECDC4; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #4ECDC4, #26C6DA); min-height: 200px;">
 <div style="text-align: center; margin-bottom: 15px;">
 <h4 style="color: white; margin: 0 0 15px 0; font-size: 16px;">🌐 Web Development</h4>
 </div>
@@ -108,9 +108,11 @@ timeline
 </div>
 </div>
 </td>
+</tr>
 
-<td align="center" width="33%">
-<div style="border: 2px solid #96CEB4; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #96CEB4, #6BCF7F); min-height: 300px;">
+<tr>
+<td align="center" width="50%">
+<div style="border: 2px solid #96CEB4; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #96CEB4, #6BCF7F); min-height: 200px;">
 <div style="text-align: center; margin-bottom: 15px;">
 <h4 style="color: white; margin: 0 0 15px 0; font-size: 16px;">��️ Databases</h4>
 </div>
@@ -138,11 +140,9 @@ timeline
 </div>
 </div>
 </td>
-</tr>
 
-<tr>
-<td align="center" width="33%">
-<div style="border: 2px solid #FFEAA7; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FFEAA7, #FDCB6E); min-height: 300px;">
+<td align="center" width="50%">
+<div style="border: 2px solid #FFEAA7; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FFEAA7, #FDCB6E); min-height: 200px;">
 <div style="text-align: center; margin-bottom: 15px;">
 <h4 style="color: #2D3436; margin: 0 0 15px 0; font-size: 16px;">🤖 AI/ML & Data Science</h4>
 </div>
@@ -178,9 +178,11 @@ timeline
 </div>
 </div>
 </td>
+</tr>
 
-<td align="center" width="33%">
-<div style="border: 2px solid #A29BFE; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #A29BFE, #6C5CE7); min-height: 300px;">
+<tr>
+<td align="center" width="50%">
+<div style="border: 2px solid #A29BFE; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #A29BFE, #6C5CE7); min-height: 200px;">
 <div style="text-align: center; margin-bottom: 15px;">
 <h4 style="color: white; margin: 0 0 15px 0; font-size: 16px;">�� NLP & Computer Vision</h4>
 </div>
@@ -201,8 +203,8 @@ timeline
 </div>
 </td>
 
-<td align="center" width="33%">
-<div style="border: 2px solid #FD79A8; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FD79A8, #E84393); min-height: 300px;">
+<td align="center" width="50%">
+<div style="border: 2px solid #FD79A8; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FD79A8, #E84393); min-height: 200px;">
 <div style="text-align: center; margin-bottom: 15px;">
 <h4 style="color: white; margin: 0 0 15px 0; font-size: 16px;">📱 Mobile & Tools</h4>
 </div>
