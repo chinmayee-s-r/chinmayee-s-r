@@ -7,11 +7,17 @@
 
 ---
 
-### ✨ Key Highlights
+## 🏆 Highlights and Leadership
+
 - **Hackathon Winner:** Won the **Barclays Internal Hackathon 2025** by designing a GenAI assistant for MSME loan scoring and document validation.
 - 🚀 **Shipped a Full-Stack AI Platform:** Built TestLLM Studio, an end-to-end model fine-tuning platform, during my internship at Tech Mahindra.
 - **Top Performer:** Placed **2nd out of 200+ teams** at the BNY Mellon Hackathon 2024 with a Java-based social music player.
 - **Delivered Business Impact:** Reduced manual errors by **60%** and doubled online revenue by creating a POS system for Kshityee Jewels.
+- **CEO @ E-Cell Yukta** – Organized Empulse 2025, largest in 8 years
+- Led team to NEC Finals @ IIT Bombay (2024)
+- BNY Mellon Career Catalyst Mentee (2024)
+- Providence TechSphere: Healthcare data analytics
+- DSA Craft 2024 Hackathon – 2nd place with VIBIN' Music Player
 
 ---
 
@@ -289,14 +295,6 @@ View More Projects
 </div>
 
 </div>
-
-## 🏆 Highlights & Leadership
-
-- **CEO @ E-Cell Yukta** – Organized Empulse 2025, largest in 8 years
-- Led team to NEC Finals @ IIT Bombay (2024)
-- BNY Mellon Career Catalyst Mentee (2024)
-- Providence TechSphere: Healthcare data analytics
-- DSA Craft 2024 Hackathon – 2nd place with VIBIN' Music Player
 
 ## 📊 GitHub Stats
 
