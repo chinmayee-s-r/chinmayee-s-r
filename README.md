@@ -16,33 +16,27 @@
 
 ## 💻 My Tech Journey & Stack
 
-### 🗓️ **Tech Evolution Timeline**
+### ��️ **Tech Evolution Timeline**
 
 ```mermaid
-timeline
-    title My Tech Journey
+graph LR
+    A[2022<br/>Programming Foundations] --> B[2023<br/>Backend & Database]
+    B --> C[2024<br/>AI/ML & Advanced Web]
+    C --> D[2025<br/>Full-Stack AI Platforms]
     
-    section 2022 - Programming Foundations
-        : Python & Java
-        : Web Basics
-        : First Projects
-        
-    section 2023 - Backend & Database
-        : MySQL & Oracle
-        : POS System
-        : Kshityee Jewels
-        
-    section 2024 - AI/ML & Advanced Web
-        : PyTorch & TensorFlow
-        : React & Angular
-        : Medical Imaging
-        : BNY Mellon 2nd Place
-        
-    section 2025 - Full-Stack AI Platforms
-        : TestLLM Studio
-        : MaturityX Dashboard
-        : GenAI Hackathon Winner
-        : Production Apps
+    A1[Python & Java<br/>Web Basics<br/>First Projects] -.-> A
+    B1[MySQL & Oracle<br/>POS System<br/>Kshityee Jewels] -.-> B
+    C1[PyTorch & TensorFlow<br/>React & Angular<br/>Medical Imaging<br/>BNY Mellon 2nd Place] -.-> C
+    D1[TestLLM Studio<br/>MaturityX Dashboard<br/>GenAI Hackathon Winner<br/>Production Apps] -.-> D
+    
+    style A fill:#FF6B6B,stroke:#333,stroke-width:3px,color:#fff
+    style B fill:#4ECDC4,stroke:#333,stroke-width:3px,color:#fff
+    style C fill:#FFEAA7,stroke:#333,stroke-width:3px,color:#000
+    style D fill:#96CEB4,stroke:#333,stroke-width:3px,color:#fff
+    style A1 fill:#FF8E8E,stroke:#333,stroke-width:2px,color:#fff
+    style B1 fill:#26C6DA,stroke:#333,stroke-width:2px,color:#fff
+    style C1 fill:#FDCB6E,stroke:#333,stroke-width:2px,color:#000
+    style D1 fill:#6BCF7F,stroke:#333,stroke-width:2px,color:#fff
 ```
 
 ### 🎯 **Current Tech Stack**
