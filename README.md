@@ -18,38 +18,32 @@
 
 ### 🗓️ **Tech Evolution Timeline**
 
-<div align="center">
-
-#### 🚀 **2022 - Programming Foundations**
-![2022](https://img.shields.io/badge/2022-Started%20Programming%20Journey-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Foundations-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Foundations-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Web Basics](https://img.shields.io/badge/Web%20Basics-First%20Projects-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-#### 🏗️ **2023 - Backend & Database Development**
-![2023](https://img.shields.io/badge/2023-Database%20%26%20Backend-4ECDC4?style=for-the-badge&logo=calendar&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Mastery-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![POS System](https://img.shields.io/badge/POS%20System-Kshityee%20Jewels-28a745?style=for-the-badge&logo=terminal&logoColor=white)
-
-#### 🤖 **2024 - AI/ML & Advanced Web**
-![2024](https://img.shields.io/badge/2024-AI%2FML%20%26%20Advanced%20Web-FFEAA7?style=for-the-badge&logo=calendar&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ML%20Frameworks-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![React](https://img.shields.io/badge/React-Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-CNNs-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)
-![Hackathon](https://img.shields.io/badge/BNY%20Mellon-2nd%20Place-28a745?style=for-the-badge&logo=trophy&logoColor=white)
-
-#### 🏆 **2025 - Full-Stack AI Platforms**
-![2025](https://img.shields.io/badge/2025-Full--Stack%20AI%20Platforms-96CEB4?style=for-the-badge&logo=calendar&logoColor=white)
-![TestLLM Studio](https://img.shields.io/badge/TestLLM%20Studio-Tech%20Mahindra-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
-![MaturityX](https://img.shields.io/badge/MaturityX-Barclays-4ECDC4?style=for-the-badge&logo=chart-line&logoColor=white)
-![GenAI Winner](https://img.shields.io/badge/GenAI%20Hackathon-Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
-![Production Apps](https://img.shields.io/badge/Production-Grade%20Apps-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white)
-
-</div>
+```mermaid
+timeline
+    title My Tech Journey
+    
+    section 2022 - Programming Foundations
+        : Python & Java
+        : Web Basics
+        : First Projects
+        
+    section 2023 - Backend & Database
+        : MySQL & Oracle
+        : POS System
+        : Kshityee Jewels
+        
+    section 2024 - AI/ML & Advanced Web
+        : PyTorch & TensorFlow
+        : React & Angular
+        : Medical Imaging
+        : BNY Mellon 2nd Place
+        
+    section 2025 - Full-Stack AI Platforms
+        : TestLLM Studio
+        : MaturityX Dashboard
+        : GenAI Hackathon Winner
+        : Production Apps
+```
 
 ### 🎯 **Current Tech Stack**
 
