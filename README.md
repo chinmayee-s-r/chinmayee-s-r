@@ -41,14 +41,16 @@ timeline
          : Production-Grade Applications
 ```
 
+### 🎯 **Current Tech Stack**
+
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="300">
-<div style="border: 2px solid #FF6B6B; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FF6B6B, #FF8E8E); min-height: 200px;">
+<td align="center" width="100%">
+<div style="border: 2px solid #FF6B6B; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FF6B6B, #FF8E8E); min-height: 120px;">
 <h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">️ Foundations</h4>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 <div style="text-align: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
 <div style="color: white; font-size: 12px; margin-top: 5px;">Python</div>
@@ -68,11 +70,13 @@ timeline
 </div>
 </div>
 </td>
+</tr>
 
-<td align="center" width="300">
-<div style="border: 2px solid #4ECDC4; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #4ECDC4, #26C6DA); min-height: 200px;">
+<tr>
+<td align="center" width="100%">
+<div style="border: 2px solid #4ECDC4; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #4ECDC4, #26C6DA); min-height: 120px;">
 <h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">🌐 Web Development</h4>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 <div style="text-align: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
 <div style="color: white; font-size: 12px; margin-top: 5px;">React</div>
@@ -88,11 +92,13 @@ timeline
 </div>
 </div>
 </td>
+</tr>
 
-<td align="center" width="300">
-<div style="border: 2px solid #96CEB4; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #96CEB4, #6BCF7F); min-height: 200px;">
+<tr>
+<td align="center" width="100%">
+<div style="border: 2px solid #96CEB4; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #96CEB4, #6BCF7F); min-height: 120px;">
 <h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">🗄️ Databases</h4>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 <div style="text-align: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
 <div style="color: white; font-size: 12px; margin-top: 5px;">MySQL</div>
@@ -119,10 +125,10 @@ timeline
 </tr>
 
 <tr>
-<td align="center" width="300">
-<div style="border: 2px solid #FFEAA7; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FFEAA7, #FDCB6E); min-height: 200px;">
+<td align="center" width="100%">
+<div style="border: 2px solid #FFEAA7; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FFEAA7, #FDCB6E); min-height: 120px;">
 <h4 style="color: #2D3436; margin: 0 0 15px 0; font-size: 18px;">🤖 AI/ML & Data Science</h4>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 <div style="text-align: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/>
 <div style="color: #2D3436; font-size: 12px; margin-top: 5px;">PyTorch</div>
@@ -154,11 +160,13 @@ timeline
 </div>
 </div>
 </td>
+</tr>
 
-<td align="center" width="300">
-<div style="border: 2px solid #A29BFE; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #A29BFE, #6C5CE7); min-height: 200px;">
+<tr>
+<td align="center" width="100%">
+<div style="border: 2px solid #A29BFE; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #A29BFE, #6C5CE7); min-height: 120px;">
 <h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">🧠 NLP & Computer Vision</h4>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 <div style="text-align: center;">
 <img src="https://img.shields.io/badge/NLTK-FF6B6B?style=for-the-badge&logo=nltk&logoColor=white" width="50" height="50" alt="NLTK"/>
 <div style="color: white; font-size: 12px; margin-top: 5px;">NLTK</div>
@@ -174,11 +182,13 @@ timeline
 </div>
 </div>
 </td>
+</tr>
 
-<td align="center" width="300">
-<div style="border: 2px solid #FD79A8; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FD79A8, #E84393); min-height: 200px;">
+<tr>
+<td align="center" width="100%">
+<div style="border: 2px solid #FD79A8; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FD79A8, #E84393); min-height: 120px;">
 <h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">📱 Mobile & Tools</h4>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 <div style="text-align: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" alt="Android"/>
 <div style="color: white; font-size: 12px; margin-top: 5px;">Android</div>
@@ -213,163 +223,72 @@ timeline
 
 ## 🚀 Project Showcase
 
-### TestLLM Studio – AI Model Fine-Tuning Platform (Internship @ Tech Mahindra)
+<div align="center">
 
-<div align="left">
-  <img src="https://img.icons8.com/ios/452/artificial-intelligence.png" width="80" alt="AI Icon"/>
-  <div style="display: inline-block; margin-left: 10px; vertical-align: top;">
-    <strong>TestLLM Studio – AI Model Fine-Tuning Platform</strong><br/>
-    Built an end-to-end platform for AI model fine-tuning (React frontend, FastAPI backend, Streamlit UI).<br/>
-    Automated dataset pipelines (scraping, Q&A gen, Whisper TTS).<br/>
-    Implemented LoRA-based fine-tuning with Unsloth & Hugging Face.<br/>
-    <em>[Repo: Private – Internship Project]</em>
-  </div>
+<table>
+<tr>
+<td align="center" width="33%">
+<div style="border: 2px solid #FF6B6B; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #FF6B6B, #FF8E8E); min-height: 300px;">
+<div style="text-align: center; margin-bottom: 15px;">
+<img src="https://img.icons8.com/ios/452/artificial-intelligence.png" width="60" height="60" alt="AI Icon"/>
+</div>
+<h4 style="color: white; margin: 0 0 10px 0; font-size: 16px;">TestLLM Studio</h4>
+<p style="color: white; font-size: 12px; margin: 0 0 10px 0;">AI Model Fine-Tuning Platform</p>
+<p style="color: white; font-size: 11px; margin: 0 0 15px 0;">Built an end-to-end platform for AI model fine-tuning (React frontend, FastAPI backend, Streamlit UI). Automated dataset pipelines and implemented LoRA-based fine-tuning.</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-bottom: 15px;">
+<span style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 10px; font-size: 10px;">React</span>
+<span style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 10px; font-size: 10px;">FastAPI</span>
+<span style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 10px; font-size: 10px;">Streamlit</span>
+</div>
+<p style="color: white; font-size: 10px; font-style: italic;">[Private - Tech Mahindra Internship]</p>
+</div>
+</td>
+
+<td align="center" width="33%">
+<div style="border: 2px solid #4ECDC4; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #4ECDC4, #26C6DA); min-height: 300px;">
+<div style="text-align: center; margin-bottom: 15px;">
+<img src="https://img.icons8.com/ios/452/combo-chart.png" width="60" height="60" alt="Dashboard Icon"/>
+</div>
+<h4 style="color: white; margin: 0 0 10px 0; font-size: 16px;">MaturityX</h4>
+<p style="color: white; font-size: 12px; margin: 0 0 10px 0;">Application Monitoring Dashboard</p>
+<p style="color: white; font-size: 11px; margin: 0 0 15px 0;">Developed a full-stack dashboard to monitor application maturity across business units. Implemented role-based authentication and automated Excel → DB pipelines.</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-bottom: 15px;">
+<span style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 10px; font-size: 10px;">FastAPI</span>
+<span style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 10px; font-size: 10px;">Angular</span>
+<span style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 10px; font-size: 10px;">Oracle</span>
+</div>
+<p style="color: white; font-size: 10px; font-style: italic;">[Private - Barclays Internship]</p>
+</div>
+</td>
+
+<td align="center" width="33%">
+<div style="border: 2px solid #96CEB4; border-radius: 15px; padding: 20px; margin: 10px; background: linear-gradient(135deg, #96CEB4, #6BCF7F); min-height: 300px;">
+<div style="text-align: center; margin-bottom: 15px;">
+<img src="https://img.icons8.com/ios/452/idea.png" width="60" height="60" alt="GenAI Icon"/>
+</div>
+<h4 style="color: white; margin: 0 0 10px 0; font-size: 16px;">MSME GenAI Assistant</h4>
+<p style="color: white; font-size: 12px; margin: 0 0 10px 0;">Barclays Hackathon Winner</p>
+<p style="color: white; font-size: 11px; margin: 0 0 15px 0;">Designed a GenAI solution for MSMEs including loan scoring, finance strategy, and document validation. Won the Barclays Internal Hackathon 2025.</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-bottom: 15px;">
+<span style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 10px; font-size: 10px;">GenAI</span>
+<span style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 10px; font-size: 10px;">Python</span>
+<span style="background: rgba(255,255,255,0.2); color: white; padding: 2px 6px; border-radius: 10px; font-size: 10px;">ML</span>
+</div>
+<p style="color: white; font-size: 10px; font-style: italic;">[Hackathon Winner]</p>
+</div>
+</td>
+</tr>
+</table>
+
+<div style="margin-top: 20px;">
+<a href="https://github.com/chinmayee-s-r?tab=repositories" target="_blank">
+<button style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; border: none; padding: 12px 24px; border-radius: 25px; font-size: 14px; font-weight: bold; cursor: pointer; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+View More Projects
+</button>
+</a>
 </div>
 
-<div style="clear: both;"></div>
-
-### 📌 MaturityX – Application Monitoring Dashboard (Internship @ Barclays)
-
-<div align="left">
-  <img src="https://img.icons8.com/ios/452/combo-chart.png" width="80" alt="Dashboard Icon"/>
-  <div style="display: inline-block; margin-left: 10px; vertical-align: top;">
-    <strong>MaturityX – Application Monitoring Dashboard</strong><br/>
-    Developed a full-stack dashboard to monitor application maturity across business units.<br/>
-    Implemented role-based authentication and automated Excel → DB pipelines.<br/>
-    Tech Stack: FastAPI, Angular, SQLite, Oracle DB.<br/>
-    <em>[Repo: Private – Internship Project]</em>
-  </div>
 </div>
-
-<div style="clear: both;"></div>
-
-<details>
-<summary> View More Projects (2025, 2024, 2023)</summary>
-
-### 2025
-
-<details>
-<summary>💳 MSME GenAI Assistant Ascend (Barclays Hackathon – Winner)</summary>
-
-<img src="https://img.icons8.com/ios/452/idea.png" width="80" alt="Idea Icon"/>
-
-Designed a GenAI solution for MSMEs (loan scoring, finance strategy, document validation).
-
-Won Barclays Internal Hackathon 2025.
-
-[Hackathon Project]
-
-</details>
-
-<details>
-<summary>🌐 Empulse 2025 – E-Cell Yukta Website</summary>
-
-<img src="https://img.icons8.com/ios/452/domain.png" width="80" alt="Website Icon"/>
-
-Designed and deployed the official website for Empulse 2025, the biggest E-Cell Yukta event.
-
-Improved outreach and collaborations across multiple colleges.
-
-[View Repo](https://github.com/chinmayee-s-r/empulse-2025)
-
-</details>
-
-### 📌 2024
-
-<details>
-<summary>📰 Fake News Detection & Bias Analysis</summary>
-
-<img src="https://img.icons8.com/ios/452/news.png" width="80" alt="News Icon"/>
-
-Achieved 99% accuracy in fake news detection (TF-IDF + Logistic Regression).
-
-Analyzed 17K+ BBC articles for political bias.
-
-[View Repo](https://github.com/chinmayee-s-r/fake-news-detection)
-
-</details>
-
-<details>
-<summary> Medical Imaging & Diagnosis</summary>
-
-<img src="https://img.icons8.com/ios/452/mri.png" width="80" alt="Medical Icon"/>
-
-Built CNNs achieving 95% accuracy for classification.
-
-Detected fractures (93.65%) & brain tumors (85.17%).
-
-Streamlit-based UI for real-time diagnosis.
-
-[View Repo](https://github.com/chinmayee-s-r/medical-imaging)
-
-</details>
-
-<details>
-<summary> Vision Enhancement for Driverless Cars (CAP)</summary>
-
-<img src="https://img.icons8.com/ios/452/tesla-model-x.png" width="80" alt="Car Icon"/>
-
-Enhanced visibility by 90% in hazy conditions using Color Attenuation Prior.
-
-Improved lane & obstacle recognition for real-time navigation.
-
-[View Repo](https://github.com/chinmayee-s-r/vision-enhancement)
-
-</details>
-
-<details>
-<summary>🎵 VIBIN' Music Player (BNY Mellon Hackathon – 2nd Place)</summary>
-
-<img src="https://img.icons8.com/ios/452/music.png" width="80" alt="Music Icon"/>
-
-Built a Java-based music player with social features (Friendship Meter, Music Match).
-
-Ranked 2nd out of 200+ teams at BNY Mellon Hackathon 2024.
-
-[View Repo](https://github.com/chinmayee-s-r/vibin-music-player)
-
-</details>
-
-<details>
-<summary>👵 Sahara: Elder Care & Safety App</summary>
-
-<img src="https://img.icons8.com/ios/452/nurse-female.png" width="80" alt="Elder Care Icon"/>
-
-Android + Firebase app with SOS alerts and secure medical record storage.
-
-[View Repo](https://github.com/chinmayee-s-r/sahara-elder-care)
-
-</details>
-
-### 2023
-
-<details>
-<summary>🛒 POS & Resource Management System (Internship @ Kshityee Jewels)</summary>
-
-<img src="https://img.icons8.com/ios/452/pos-terminal.png" width="80" alt="POS Icon"/>
-
-Created POS system for 150+ SKUs (Java + MySQL).
-
-Doubled online revenue & reduced manual errors by 60%.
-
-[View Repo](https://github.com/chinmayee-s-r/pos-system)
-
-</details>
-
-<details>
-<summary>🛍️ Electronics Store DBMS Project</summary>
-
-<img src="https://img.icons8.com/ios/452/shopping-cart.png" width="80" alt="Shopping Icon"/>
-
-Developed a database system for electronic store management.
-
-Tech: MySQL, JDBC.
-
-[View Repo](https://github.com/chinmayee-s-r/electronics-store-dbms)
-
-</details>
-
-</details>
 
 ## 🏆 Highlights & Leadership
 
