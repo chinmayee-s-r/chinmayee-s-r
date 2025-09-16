@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Chinmayee 👋</h1>
 <h3 align="center">AI/ML Engineer | Full-Stack Developer</h3>
+<h2 align="center">AI Intern @Maker's Lab TechM | Future SDE @Barclays Bank PLC | Pune, India</h2>
 <p align="center">
   I build intelligent, end-to-end applications, transforming complex data into scalable software. My experience ranges from developing production-grade dashboards at <b>Barclays</b> to creating AI-powered fine-tuning platforms at <b>Tech Mahindra's Maker's Lab</b>.
 </p>
@@ -29,14 +30,14 @@ graph LR
     C1[PyTorch & TensorFlow<br/>React & Angular<br/>Medical Imaging<br/>BNY Mellon 2nd Place] -.-> C
     D1[TestLLM Studio<br/>MaturityX Dashboard<br/>GenAI Hackathon Winner<br/>Production Apps] -.-> D
     
-    style A fill:#FF6B6B,stroke:#333,stroke-width:3px,color:#fff
-    style B fill:#4ECDC4,stroke:#333,stroke-width:3px,color:#fff
-    style C fill:#FFEAA7,stroke:#333,stroke-width:3px,color:#000
-    style D fill:#96CEB4,stroke:#333,stroke-width:3px,color:#fff
-    style A1 fill:#FF8E8E,stroke:#333,stroke-width:2px,color:#fff
-    style B1 fill:#26C6DA,stroke:#333,stroke-width:2px,color:#fff
-    style C1 fill:#FDCB6E,stroke:#333,stroke-width:2px,color:#000
-    style D1 fill:#6BCF7F,stroke:#333,stroke-width:2px,color:#fff
+    style A fill:#FF4444,stroke:#CC0000,stroke-width:4px,color:#fff,font-size:16px
+    style B fill:#00CCCC,stroke:#009999,stroke-width:4px,color:#fff,font-size:16px
+    style C fill:#FFDD44,stroke:#FFCC00,stroke-width:4px,color:#000,font-size:16px
+    style D fill:#44CC44,stroke:#00AA00,stroke-width:4px,color:#fff,font-size:16px
+    style A1 fill:#FF6666,stroke:#CC0000,stroke-width:3px,color:#fff,font-size:14px
+    style B1 fill:#22DDDD,stroke:#009999,stroke-width:3px,color:#fff,font-size:14px
+    style C1 fill:#FFEE66,stroke:#FFCC00,stroke-width:3px,color:#000,font-size:14px
+    style D1 fill:#66DD66,stroke:#00AA00,stroke-width:3px,color:#fff,font-size:14px
 ```
 
 ### 🎯 **Current Tech Stack**
