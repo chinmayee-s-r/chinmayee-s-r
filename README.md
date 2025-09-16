@@ -17,78 +17,140 @@
 ## 💻 My Tech Stack
 
 <div align="center">
+  <h3>🌳 Interactive Tech Evolution Tree</h3>
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+    
+    <!-- Foundations -->
+    <div class="tech-category" style="background: linear-gradient(135deg, #FF6B6B, #FF8E8E); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 4px 15px rgba(255, 107, 107, 0.3); transition: transform 0.3s ease;">
+      <h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">🏗️ Foundations</h4>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #FF6B6B; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Python</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #FF6B6B; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Java</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #FF6B6B; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">C/C++</span>
+      </div>
+    </div>
 
-### 🏗️ **Foundations**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+    <!-- Web Development -->
+    <div class="tech-category" style="background: linear-gradient(135deg, #4ECDC4, #26C6DA); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 4px 15px rgba(78, 205, 196, 0.3); transition: transform 0.3s ease;">
+      <h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">🌐 Web Development</h4>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #4ECDC4; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">React</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #4ECDC4; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Angular</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #4ECDC4; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">FastAPI</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #4ECDC4; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">HTML/CSS</span>
+      </div>
+    </div>
 
-### 🌐 **Web Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    <!-- AI/ML -->
+    <div class="tech-category" style="background: linear-gradient(135deg, #FFEAA7, #FDCB6E); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 4px 15px rgba(255, 234, 167, 0.3); transition: transform 0.3s ease;">
+      <h4 style="color: #2D3436; margin: 0 0 15px 0; font-size: 18px;">🤖 AI/ML & Data Science</h4>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #E17055; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">PyTorch</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #E17055; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">TensorFlow</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #E17055; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Hugging Face</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #E17055; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Scikit-learn</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #E17055; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">NumPy/Pandas</span>
+      </div>
+    </div>
 
-### 🗄️ **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+    <!-- Databases -->
+    <div class="tech-category" style="background: linear-gradient(135deg, #96CEB4, #6BCF7F); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 4px 15px rgba(150, 206, 180, 0.3); transition: transform 0.3s ease;">
+      <h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">🗄️ Databases</h4>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #6BCF7F; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">MySQL</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #6BCF7F; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Oracle</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #6BCF7F; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">MongoDB</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #6BCF7F; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Firebase</span>
+      </div>
+    </div>
 
-### 🤖 **AI/ML & Data Science**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+    <!-- Mobile Development -->
+    <div class="tech-category" style="background: linear-gradient(135deg, #A29BFE, #6C5CE7); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 4px 15px rgba(162, 155, 254, 0.3); transition: transform 0.3s ease;">
+      <h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">📱 Mobile Development</h4>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #6C5CE7; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Android</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #6C5CE7; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Java</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #6C5CE7; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Firebase</span>
+      </div>
+    </div>
 
-### 🧠 **NLP & Computer Vision**
-![NLTK](https://img.shields.io/badge/NLTK-FF6B6B?style=for-the-badge&logo=nltk&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+    <!-- Tools & DevOps -->
+    <div class="tech-category" style="background: linear-gradient(135deg, #00B894, #00A085); padding: 20px; border-radius: 15px; margin: 10px; box-shadow: 0 4px 15px rgba(0, 184, 148, 0.3); transition: transform 0.3s ease;">
+      <h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">🛠️ Tools & DevOps</h4>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #00A085; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Git</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #00A085; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Docker</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #00A085; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">Kubernetes</span>
+        <span style="background: white; padding: 8px 12px; border-radius: 20px; font-size: 12px; font-weight: bold; color: #00A085; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">VS Code</span>
+      </div>
+    </div>
 
-### 📱 **Mobile Development**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  </div>
 
-### 🛠️ **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  <!-- Skill Progress Bars -->
+  <div style="margin-top: 30px; max-width: 600px; margin-left: auto; margin-right: auto;">
+    <h4 style="text-align: center; margin-bottom: 20px; color: #2D3436;">📊 Skill Proficiency Levels</h4>
+    
+    <div style="margin-bottom: 15px;">
+      <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+        <span style="font-weight: bold; color: #2D3436;">Python</span>
+        <span style="color: #636e72;">95%</span>
+      </div>
+      <div style="background: #ddd; border-radius: 10px; height: 8px; overflow: hidden;">
+        <div style="background: linear-gradient(90deg, #FF6B6B, #FF8E8E); height: 100%; width: 95%; border-radius: 10px;"></div>
+      </div>
+    </div>
 
-### ☁️ **Cloud & Services**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+    <div style="margin-bottom: 15px;">
+      <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+        <span style="font-weight: bold; color: #2D3436;">FastAPI</span>
+        <span style="color: #636e72;">90%</span>
+      </div>
+      <div style="background: #ddd; border-radius: 10px; height: 8px; overflow: hidden;">
+        <div style="background: linear-gradient(90deg, #4ECDC4, #26C6DA); height: 100%; width: 90%; border-radius: 10px;"></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 15px;">
+      <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+        <span style="font-weight: bold; color: #2D3436;">PyTorch</span>
+        <span style="color: #636e72;">88%</span>
+      </div>
+      <div style="background: #ddd; border-radius: 10px; height: 8px; overflow: hidden;">
+        <div style="background: linear-gradient(90deg, #FFEAA7, #FDCB6E); height: 100%; width: 88%; border-radius: 10px;"></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 15px;">
+      <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+        <span style="font-weight: bold; color: #2D3436;">React</span>
+        <span style="color: #636e72;">85%</span>
+      </div>
+      <div style="background: #ddd; border-radius: 10px; height: 8px; overflow: hidden;">
+        <div style="background: linear-gradient(90deg, #96CEB4, #6BCF7F); height: 100%; width: 85%; border-radius: 10px;"></div>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 15px;">
+      <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+        <span style="font-weight: bold; color: #2D3436;">Java</span>
+        <span style="color: #636e72;">82%</span>
+      </div>
+      <div style="background: #ddd; border-radius: 10px; height: 8px; overflow: hidden;">
+        <div style="background: linear-gradient(90deg, #A29BFE, #6C5CE7); height: 100%; width: 82%; border-radius: 10px;"></div>
+      </div>
+    </div>
+
+  </div>
 
 </div>
 
-## 📊 **Proficiency Levels**
-
-<div align="center">
-
-### 🎯 **Expert Level (90%+)**
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-### 🚀 **Advanced Level (80-89%)**
-![React](https://img.shields.io/badge/React-Advanced-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-### 💪 **Intermediate Level (70-79%)**
-![Angular](https://img.shields.io/badge/Angular-Intermediate-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+<style>
+.tech-category:hover {
+  transform: translateY(-5px) !important;
+}
+</style>
 
 ## 🚀 Project Showcase
 
