@@ -13,48 +13,6 @@
 <a href="mailto:chinmayee.randive.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-## 🏆 Highlights and Leadership
-
-- **Hackathon Winner:** Won the **Barclays Internal Hackathon 2025** by designing a GenAI assistant for MSME loan scoring and document validation.
-- 🚀 **Shipped a Full-Stack AI Platform:** Built TestLLM Studio, an end-to-end model fine-tuning platform, during my internship at Tech Mahindra.
-- **Top Performer:** Placed **2nd out of 200+ teams** at the BNY Mellon Hackathon 2024 with a Java-based social music player.
-- **Delivered Business Impact:** Reduced manual errors by **60%** and doubled online revenue by creating a POS system for Kshityee Jewels.
-- **CEO @ E-Cell Yukta** – Organized Empulse 2025, largest in 8 years
-- Led team to NEC Finals @ IIT Bombay (2024)
-- BNY Mellon Career Catalyst Mentee (2024)
-- Providence TechSphere: Healthcare data analytics
-- DSA Craft 2024 Hackathon – 2nd place with VIBIN' Music Player
-
----
-
-## 💻 My Journey & Tech Stack
-
-### 🗓️ **Tech Evolution Timeline**
-
-```mermaid
-timeline
-    title My Tech Learning Journey
-    2022 : Started Programming Journey
-         : Python & Java Foundations
-         : First Web Development Projects
-    2023 : Database & Backend Development
-         : MySQL, Oracle, SQLite
-         : POS System @ Kshityee Jewels
-         : Java + MySQL Mastery
-    2024 : AI/ML & Advanced Web
-         : PyTorch, TensorFlow, Scikit-learn
-         : React, Angular, FastAPI
-         : Medical Imaging & CNNs
-         : BNY Mellon Hackathon (2nd Place)
-    2025 : Full-Stack AI Platforms
-         : TestLLM Studio @ Tech Mahindra
-         : MaturityX Dashboard @ Barclays
-         : GenAI Hackathon Winner
-         : Production-Grade Applications
-```
-
-### 🎯 **Current Tech Stack**
-
 <div align="center">
 <table width="100%">
 
@@ -138,6 +96,47 @@ timeline
 </tr>
 </table>
 </div>
+
+
+## 🏆 Highlights and Leadership
+
+- **Hackathon Winner:** Won the **Barclays Internal Hackathon 2025** by designing a GenAI assistant for MSME loan scoring and document validation.
+- 🚀 **Shipped a Full-Stack AI Platform:** Built TestLLM Studio, an end-to-end model fine-tuning platform, during my internship at Tech Mahindra.
+- **Top Performer:** Placed **2nd out of 200+ teams** at the BNY Mellon Hackathon 2024 with a Java-based social music player.
+- **Delivered Business Impact:** Reduced manual errors by **60%** and doubled online revenue by creating a POS system for Kshityee Jewels.
+- **CEO @ E-Cell Yukta** – Organized Empulse 2025, largest in 8 years
+- Led team to NEC Finals @ IIT Bombay (2024)
+- BNY Mellon Career Catalyst Mentee (2024)
+- Providence TechSphere: Healthcare data analytics
+- DSA Craft 2024 Hackathon – 2nd place with VIBIN' Music Player
+
+---
+
+## 💻 My Journey & Tech Stack
+
+### 🗓️ **Tech Evolution Timeline**
+
+```mermaid
+timeline
+    title My Tech Learning Journey
+    2022 : Started Programming Journey
+         : Python & Java Foundations
+         : First Web Development Projects
+    2023 : Database & Backend Development
+         : MySQL, Oracle, SQLite
+         : POS System @ Kshityee Jewels
+         : Java + MySQL Mastery
+    2024 : AI/ML & Advanced Web
+         : PyTorch, TensorFlow, Scikit-learn
+         : React, Angular, FastAPI
+         : Medical Imaging & CNNs
+         : BNY Mellon Hackathon (2nd Place)
+    2025 : Full-Stack AI Platforms
+         : TestLLM Studio @ Tech Mahindra
+         : MaturityX Dashboard @ Barclays
+         : GenAI Hackathon Winner
+         : Production-Grade Applications
+```
 
 
 ## 🚀 Project Showcase
