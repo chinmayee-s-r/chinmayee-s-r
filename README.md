@@ -56,92 +56,85 @@ timeline
 ### 🎯 **Current Tech Stack**
 
 <div align="center">
-<table>
+<table width="100%">
+
 <tr>
-
-<!-- Foundations -->
 <td align="center" width="33%">
-<div style="border: 2px solid #FF6B6B; border-radius: 15px; padding: 5px; margin: 10px; background: linear-gradient(135deg, #FF6B6B, #FF8E8E);">
+<div style="border: 2px solid #FF6B6B; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #FF6B6B, #FF8E8E);">
 <h4 style="color:white; margin-bottom:15px;">🏗️ Foundations</h4>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Python</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Java</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">C++</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">C</span>
+<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C"/>
 </div>
 </div>
 </td>
 
-<!-- Web Development -->
 <td align="center" width="33%">
-<div style="border: 2px solid #4ECDC4; border-radius: 15px; padding: 5px; margin: 10px; background: linear-gradient(135deg, #4ECDC4, #26C6DA);">
+<div style="border: 2px solid #4ECDC4; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #4ECDC4, #26C6DA);">
 <h4 style="color:white; margin-bottom:15px;">🌐 Web Development</h4>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">React</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Angular</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">FastAPI</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">JavaScript</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">TypeScript</span>
+<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" title="Angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
 </div>
 </div>
 </td>
 
-<!-- Databases -->
 <td align="center" width="33%">
-<div style="border: 2px solid #96CEB4; border-radius: 15px; padding: 5px; margin: 10px; background: linear-gradient(135deg, #96CEB4, #6BCF7F);">
+<div style="border: 2px solid #96CEB4; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #96CEB4, #6BCF7F);">
 <h4 style="color:white; margin-bottom:15px;">🗄️ Databases</h4>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">MySQL</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Oracle</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">SQLite</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">MongoDB</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Firebase</span>
+<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQLite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" title="Firebase"/>
 </div>
 </div>
 </td>
 </tr>
 
 <tr>
-<!-- AI/ML -->
 <td align="center" width="33%">
-<div style="border: 2px solid #FFD166; border-radius: 15px; padding: 5px; margin: 10px; background: linear-gradient(135deg, #FFD166, #F6C90E);">
+<div style="border: 2px solid #FFD166; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #FFD166, #F6C90E);">
 <h4 style="color:white; margin-bottom:15px;">🤖 AI/ML</h4>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">PyTorch</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">TensorFlow</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Keras</span><br>
-<img src="https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=flat&logo=huggingface&logoColor=white" width="70"/><br><span style="color:white;font-size:12px;">Hugging Face</span><br>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" width="70"/><br><span style="color:white;font-size:12px;">Scikit-learn</span>
+<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" title="Keras"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=flat&logo=huggingface&logoColor=white" height="25" title="Hugging Face"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="25" title="Scikit-learn"/>
 </div>
 </div>
 </td>
 
-<!-- NLP & CV -->
 <td align="center" width="33%">
-<div style="border: 2px solid #A29BFE; border-radius: 15px; padding: 5px; margin: 10px; background: linear-gradient(135deg, #A29BFE, #6C5CE7);">
+<div style="border: 2px solid #A29BFE; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #A29BFE, #6C5CE7);">
 <h4 style="color:white; margin-bottom:15px;">🧠 NLP & CV</h4>
-<div>
-<img src="https://img.shields.io/badge/NLTK-FF6B6B?style=flat&logo=nltk&logoColor=white" width="60"/><br><span style="color:white;font-size:12px;">NLTK</span><br>
-<img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat&logo=spacy&logoColor=white" width="60"/><br><span style="color:white;font-size:12px;">SpaCy</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">OpenCV</span>
+<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+<img src="https://img.shields.io/badge/NLTK-FF6B6B?style=flat&logo=nltk&logoColor=white" height="25" title="NLTK"/>
+<img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat&logo=spacy&logoColor=white" height="25" title="SpaCy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" title="OpenCV"/>
 </div>
 </div>
 </td>
 
-<!-- Mobile & Tools -->
 <td align="center" width="33%">
-<div style="border: 2px solid #FF9F1C; border-radius: 5px; padding: 15px; margin: 10px; background: linear-gradient(135deg, #FF9F1C, #FFB347);">
+<div style="border: 2px solid #FF9F1C; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #FF9F1C, #FFB347);">
 <h4 style="color:white; margin-bottom:15px;">📱 Mobile & Tools</h4>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Android</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Git</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Docker</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Kubernetes</span><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">VS Code</span>
+<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" title="Android"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" height="40" title="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
 </div>
 </div>
 </td>
-
 </tr>
 </table>
 </div>
