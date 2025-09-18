@@ -57,7 +57,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQLite"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" title="Firebase"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" title="Android"/>
     </div>
@@ -132,7 +131,4 @@
 ---
 
 ## 📬 Let’s Connect  
-
-<p align="center">
-I’m currently seeking **AI/ML and software engineering full-time opportunities after graduation** (Joining June 2026 onwards).
-</p>
+<h3 align="center">I’m currently seeking AI/ML and software engineering full-time opportunities after graduation (Joining June 2026 onwards).</h3>
