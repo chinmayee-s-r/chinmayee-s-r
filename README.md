@@ -130,6 +130,5 @@
 ## 📬 Let’s Connect  
 
 <p align="center">
-I’m currently seeking **AI/ML and software engineering internship opportunities for Sept–Dec 2025**.  
-Open to full-time roles post-graduation.
+I’m currently seeking **AI/ML and software engineering full-time opportunities after graduation** (Joining June 2026 onwards).
 </p>
