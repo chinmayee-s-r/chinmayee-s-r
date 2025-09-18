@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Chinmayee 👋</h1>
 <h3 align="center">AI/ML Engineer | Full-Stack Developer</h3>
-<h3 align="center">AI Intern @Maker's Lab TechM | Future SDE @Barclays Bank PLC | Pune, India </h3>
+<h4 align="center">AI Intern @Maker's Lab TechM | Future SDE @Barclays Bank PLC | Pune, India </h4>
+
+<p align="center">
+  I build intelligent, end-to-end applications, transforming complex data into scalable software. My experience ranges from developing production-grade dashboards at <b>Barclays</b> to creating AI-powered fine-tuning platforms at <b>Tech Mahindra's Maker's Lab</b>.
+</p>
 
 <p align="center">
 <a href="https://linkedin.com/in/chinmayee-randive" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -8,11 +12,6 @@
 <a href="https://www.hackerrank.com/chinmayeer" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
 <a href="mailto:chinmayee.randive.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
-<p align="center">
-  I build intelligent, end-to-end applications, transforming complex data into scalable software. My experience ranges from developing production-grade dashboards at <b>Barclays</b> to creating AI-powered fine-tuning platforms at <b>Tech Mahindra's Maker's Lab</b>.
-</p>
-
 ---
 
 ## 🏆 Highlights and Leadership
@@ -57,59 +56,97 @@ timeline
 
 ### 🎯 **Current Tech Stack**
 
-#### 🏗️ **Foundations**
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" style="margin: 0 10px;"/>
+<table>
+<tr>
+
+<!-- Foundations -->
+<td align="center" width="33%">
+<div style="border: 2px solid #FF6B6B; border-radius: 15px; padding: 15px; margin: 10px; background: linear-gradient(135deg, #FF6B6B, #FF8E8E); min-height: 250px;">
+<h4 style="color:white; margin-bottom:15px;">🏗️ Foundations</h4>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Python</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Java</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">C++</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">C</span>
+</div>
+</div>
+</td>
+
+<!-- Web Development -->
+<td align="center" width="33%">
+<div style="border: 2px solid #4ECDC4; border-radius: 15px; padding: 15px; margin: 10px; background: linear-gradient(135deg, #4ECDC4, #26C6DA); min-height: 250px;">
+<h4 style="color:white; margin-bottom:15px;">🌐 Web Development</h4>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">React</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Angular</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">FastAPI</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">JavaScript</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">TypeScript</span>
+</div>
+</div>
+</td>
+
+<!-- Databases -->
+<td align="center" width="33%">
+<div style="border: 2px solid #96CEB4; border-radius: 15px; padding: 15px; margin: 10px; background: linear-gradient(135deg, #96CEB4, #6BCF7F); min-height: 250px;">
+<h4 style="color:white; margin-bottom:15px;">🗄️ Databases</h4>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">MySQL</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Oracle</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">SQLite</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">MongoDB</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Firebase</span>
+</div>
+</div>
+</td>
+</tr>
+
+<tr>
+<!-- AI/ML -->
+<td align="center" width="33%">
+<div style="border: 2px solid #FFD166; border-radius: 15px; padding: 15px; margin: 10px; background: linear-gradient(135deg, #FFD166, #F6C90E); min-height: 250px;">
+<h4 style="color:white; margin-bottom:15px;">🤖 AI/ML</h4>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">PyTorch</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">TensorFlow</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Keras</span><br>
+<img src="https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=flat&logo=huggingface&logoColor=white" width="70"/><br><span style="color:white;font-size:12px;">Hugging Face</span><br>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" width="70"/><br><span style="color:white;font-size:12px;">Scikit-learn</span>
+</div>
+</div>
+</td>
+
+<!-- NLP & CV -->
+<td align="center" width="33%">
+<div style="border: 2px solid #A29BFE; border-radius: 15px; padding: 15px; margin: 10px; background: linear-gradient(135deg, #A29BFE, #6C5CE7); min-height: 250px;">
+<h4 style="color:white; margin-bottom:15px;">🧠 NLP & CV</h4>
+<div>
+<img src="https://img.shields.io/badge/NLTK-FF6B6B?style=flat&logo=nltk&logoColor=white" width="60"/><br><span style="color:white;font-size:12px;">NLTK</span><br>
+<img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat&logo=spacy&logoColor=white" width="60"/><br><span style="color:white;font-size:12px;">SpaCy</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">OpenCV</span>
+</div>
+</div>
+</td>
+
+<!-- Mobile & Tools -->
+<td align="center" width="33%">
+<div style="border: 2px solid #FF9F1C; border-radius: 15px; padding: 15px; margin: 10px; background: linear-gradient(135deg, #FF9F1C, #FFB347); min-height: 250px;">
+<h4 style="color:white; margin-bottom:15px;">📱 Mobile & Tools</h4>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Android</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Git</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Docker</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">Kubernetes</span><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><br><span style="color:white;font-size:12px;">VS Code</span>
+</div>
+</div>
+</td>
+
+</tr>
+</table>
 </div>
 
-#### 🌐 **Web Development**
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50" height="50" alt="Angular" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" style="margin: 0 10px;"/>
-</div>
-
-#### ��️ **Databases**
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase" style="margin: 0 10px;"/>
-</div>
-
-#### 🤖 **AI/ML & Data Science**
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50" alt="Keras" style="margin: 0 10px;"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white" width="50" height="50" alt="Hugging Face" style="margin: 0 10px;"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="50" height="50" alt="Scikit-learn" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" style="margin: 0 10px;"/>
-</div>
-
-#### 🧠 **NLP & Computer Vision**
-<div align="center">
-<img src="https://img.shields.io/badge/NLTK-FF6B6B?style=for-the-badge&logo=nltk&logoColor=white" width="50" height="50" alt="NLTK" style="margin: 0 10px;"/>
-<img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" width="50" height="50" alt="SpaCy" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV" style="margin: 0 10px;"/>
-</div>
-
-#### 📱 **Mobile & Tools**
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" alt="Android" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="50" height="50" alt="Kubernetes" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" style="margin: 0 10px;"/>
-</div>
 
 ## 🚀 Project Showcase
 
