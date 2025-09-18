@@ -60,8 +60,8 @@ timeline
 
 <tr>
 <td align="center" width="33%">
-<div style="border: 2px solid #FF6B6B; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #FF6B6B, #FF8E8E);">
-<h4 style="color:white; margin-bottom:15px;">🏗️ Foundations</h4>
+<div style="border: 2px solid #FF6B6B; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #2C2C2C, #3A1C1C);">
+<h4 style="color:#FF6B6B; margin-bottom:15px;">🏗️ Foundations</h4>
 <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
@@ -72,8 +72,8 @@ timeline
 </td>
 
 <td align="center" width="33%">
-<div style="border: 2px solid #4ECDC4; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #4ECDC4, #26C6DA);">
-<h4 style="color:white; margin-bottom:15px;">🌐 Web Development</h4>
+<div style="border: 2px solid #26C6DA; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #1A2A2F, #0D1C1F);">
+<h4 style="color:#26C6DA; margin-bottom:15px;">🌐 Web Development</h4>
 <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" title="Angular"/>
@@ -85,8 +85,8 @@ timeline
 </td>
 
 <td align="center" width="33%">
-<div style="border: 2px solid #96CEB4; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #96CEB4, #6BCF7F);">
-<h4 style="color:white; margin-bottom:15px;">🗄️ Databases</h4>
+<div style="border: 2px solid #6BCF7F; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #1C2B1C, #122112);">
+<h4 style="color:#6BCF7F; margin-bottom:15px;">🗄️ Databases</h4>
 <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle"/>
@@ -100,8 +100,8 @@ timeline
 
 <tr>
 <td align="center" width="33%">
-<div style="border: 2px solid #FFD166; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #FFD166, #F6C90E);">
-<h4 style="color:white; margin-bottom:15px;">🤖 AI/ML</h4>
+<div style="border: 2px solid #FFD166; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #2E2A1A, #3B2F0E);">
+<h4 style="color:#FFD166; margin-bottom:15px;">🤖 AI/ML</h4>
 <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/>
@@ -113,8 +113,8 @@ timeline
 </td>
 
 <td align="center" width="33%">
-<div style="border: 2px solid #A29BFE; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #A29BFE, #6C5CE7);">
-<h4 style="color:white; margin-bottom:15px;">🧠 NLP & CV</h4>
+<div style="border: 2px solid #A29BFE; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #1E1C2E, #151326);">
+<h4 style="color:#A29BFE; margin-bottom:15px;">🧠 NLP & CV</h4>
 <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
 <img src="https://img.shields.io/badge/NLTK-FF6B6B?style=flat&logo=nltk&logoColor=white" height="25" title="NLTK"/>
 <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat&logo=spacy&logoColor=white" height="25" title="SpaCy"/>
@@ -124,8 +124,8 @@ timeline
 </td>
 
 <td align="center" width="33%">
-<div style="border: 2px solid #FF9F1C; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #FF9F1C, #FFB347);">
-<h4 style="color:white; margin-bottom:15px;">📱 Mobile & Tools</h4>
+<div style="border: 2px solid #FF9F1C; border-radius: 15px; padding: 10px; margin: 10px; background: linear-gradient(135deg, #2E231C, #3C2A1A);">
+<h4 style="color:#FF9F1C; margin-bottom:15px;">📱 Mobile & Tools</h4>
 <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" title="Android"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
