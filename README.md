@@ -20,29 +20,12 @@
 
 <div align="center">
 
-<!-- Headers -->
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-bottom:20px;">
-
-  <div style="border: 2px solid #4ECDC4; border-radius: 12px; padding: 8px 20px; background: linear-gradient(135deg, #1E1E1E, #2A2A2A); color:#4ECDC4; font-weight:bold;">
-    ⚡ Core Expertise
-  </div>
-
-  <div style="border: 2px solid #FFD166; border-radius: 12px; padding: 8px 20px; background: linear-gradient(135deg, #1E1E1E, #2A2A2A); color:#FFD166; font-weight:bold;">
-    🤖 AI / ML
-  </div>
-
-  <div style="border: 2px solid #A29BFE; border-radius: 12px; padding: 8px 20px; background: linear-gradient(135deg, #1E1E1E, #2A2A2A); color:#A29BFE; font-weight:bold;">
-    🛠️ Additional Tools
-  </div>
-
-</div>
-
 <!-- Tech Logos -->
 <table width="100%">
 <tr>
 <td align="center" width="33%">
   <div style="border: 2px solid #4ECDC4; border-radius: 15px; padding: 12px; margin: 10px; background: linear-gradient(135deg, #1E1E1E, #2C2C2C);">
-    <h4 style="color:#4ECDC4; margin-bottom:15px;">⚡Dev Stack & Core Expertise</h4>
+    <h3 style="color:#4ECDC4; margin-bottom:15px;">Dev Stack</h3>
     <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
@@ -57,7 +40,7 @@
 
 <td align="center" width="33%">
   <div style="border: 2px solid #FFD166; border-radius: 15px; padding: 12px; margin: 10px; background: linear-gradient(135deg, #1E1E1E, #2C2C2C);">
-    <h4 style="color:#FFD166; margin-bottom:15px;">🤖 AI / ML</h4>
+    <h3 style="color:#FFD166; margin-bottom:15px;">AI / ML</h3>
     <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/>
@@ -71,7 +54,7 @@
 
 <td align="center" width="33%">
   <div style="border: 2px solid #A29BFE; border-radius: 15px; padding: 12px; margin: 10px; background: linear-gradient(135deg, #1E1E1E, #2C2C2C);">
-    <h4 style="color:#A29BFE; margin-bottom:15px;">🛠️ Additional Tools</h4>
+    <h3 style="color:#A29BFE; margin-bottom:15px;">Additional Tools</h3>
     <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
