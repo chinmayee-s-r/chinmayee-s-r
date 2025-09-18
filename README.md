@@ -16,8 +16,6 @@
 
 ---
 
-### 🎯 Tech Stack
-
 <div align="center">
 
 <!-- Tech Logos -->
@@ -45,9 +43,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" title="Keras"/>
-      <img src="https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=flat&logo=huggingface&logoColor=white" height="25" title="Hugging Face"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="25" title="Scikit-learn"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" title="OpenCV"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="25" title="Scikit-learn"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=flat&logo=huggingface&logoColor=white" height="25" title="Hugging Face"/>
     </div>
   </div>
 </td>
