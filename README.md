@@ -3,8 +3,8 @@
 <h4 align="center">AI Intern @Maker's Lab TechM | Future SDE @Barclays | Pune, India</h4>
 
 <p align="center">
-  🚀 AI/ML Engineer and Full-Stack Developer passionate about building scalable AI systems and end-to-end applications.  
-  Experienced across fintech, healthcare, and retail domains — from production-ready dashboards at <b>Barclays</b> to AI fine-tuning platforms at <b>Tech Mahindra</b>.
+  AI/ML Engineer and Full-Stack Developer passionate about building scalable AI systems and end-to-end applications.
+  Experienced across FinTech, IT Services, and E-Commerce — where technology meets measurable impact.
 </p>
 
 <p align="center">
