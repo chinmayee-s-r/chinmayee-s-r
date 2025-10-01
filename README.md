@@ -3,8 +3,8 @@
 <h4 align="center">AI Intern @Maker's Lab TechM | Future SDE @Barclays | Pune, India</h4>
 
 <p align="center">
-  AI/ML Engineer and Full-Stack Developer passionate about building scalable AI systems and end-to-end applications.
-  Experienced across FinTech, IT Services, and E-Commerce — where technology meets measurable impact.
+  AI/ML Engineer and Full-Stack Developer passionate about building scalable systems and end-to-end applications.
+  Experienced across FinTech, IT Services and E-Commerce — where technology meets measurable impact.
 </p>
 
 <p align="center">
@@ -74,8 +74,8 @@
 - **Hackathon Winner:** 🏅 Barclays Internal Hackathon 2025 — built a GenAI assistant for MSME loan scoring & validation.  
 - **Shipped Full-Stack AI Platform:** Built **TestLLM Studio** (AI fine-tuning platform) at Tech Mahindra.  
 - **Top Performer:** 2nd place out of 200+ teams @ BNY Mellon Hackathon 2024 with a social music player.  
-- **Delivered Business Impact:** Cut manual errors by **60%** & doubled revenue with a POS system @ Kshityee Jewels.  
-- **Leadership:** CEO @ E-Cell Yukta — scaled team to 70+ members, hosted **largest event in 8 years**, led team to **NEC Finals, IIT Bombay (2024)**.  
+- **Delivered Business Impact:** Cut manual errors by **60%** & increased revenue to 100% from zero baseline with a POS system @ Kshityee Jewels.  
+- **Leadership:** CEO @ E-Cell Yukta — scaled team to 70+ members, hosted **largest event in 8 years**, led team to **NEC Finals - IIT Bombay (2024)**.  
 
 ---
 
